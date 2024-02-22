@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dino runner</string>
+    <string name="play">Spielen</string>
+    <string name="privacy_policy">Datenschutz</string>
+</resources>
